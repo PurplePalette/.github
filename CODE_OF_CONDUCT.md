@@ -1,11 +1,11 @@
 
-# コントリビューター行動規範 . Code of Conduct
+# コントリビューター行動規範 / Code of Conduct
 開発者がすべきこと、すべきでないこと。
-What does developers should do, and shouldn't do.
+What does developers should do, and should not do.
 
 
-## 必須行動 / What we Must do
-* メンバー、コントリビューター、およびリーダーは、性別、障がい、年齢、教育、国籍、人格、人種、宗教等に関係なく、コミュニティを憎しみがなく、親しみやすく、多様で、包括的で、健全なコミュニティに貢献するよう最大限の努力をすること。(Members, contributors, and leaders must make the utmost effort to contribute regardless of gender, disability, age, education, nationality, personality, race, religion, etc., make the community friendly, friendly, diverse, inclusive, and healthy.)
+## 必須行動 / What we MUST do
+* メンバー、コントリビューター、およびリーダーは、性別、障がい、年齢、教育、国籍、人格、人種、宗教等に関係なく、コミュニティを憎しみがなく、親しみやすく、多様で、包括的で、健全なコミュニティにするよう最大限の努力をすること。(Members, contributors, and leaders must make the utmost effort to contribute regardless of gender, disability, age, education, nationality, personality, race, religion, etc., make the community friendly, friendly, diverse, inclusive, and healthy.)
 
 * このコミュニティは余暇の過ごし方の1つであり、各メンバーには時間の使い方の自由があることを理解すること。
 This community is one choice of how to use extra time. Each member has each job, and life. Every member have choice how to spend own life. Each member must remember it.
@@ -28,7 +28,7 @@ This community is one choice of how to use extra time. Each member has each job,
 
 * 新しいコントリビューターを歓迎する (Welcome new contributors)
 
-## すべきでない行動 / What we SHOULD NOT to do
+## すべきでない行動 / What we SHOULD NOT do
 * 過度に高圧的なコメント (Commenting with a high-handed attitude)
 
 * 公開の場、非公開の場を問わず、あらゆる嫌がらせ (Every type of abuse, defamation, and slander)
