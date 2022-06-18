@@ -37,7 +37,7 @@
 
 ### レポート提出方法 / How to submit a report
 下記いずれかの方法でご連絡ください
-- [Discord/お窓](https://discord.com/invite/U7JRQTdnW3)
+- [Discord/お窓（`CraX#9321`）](https://discord.com/invite/U7JRQTdnW3)
 - [Mail/お窓](mailto:dsgamer777@gmail.com)
 - Github Issue(リスクが低い問題の場合)
 
