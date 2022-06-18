@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: PurplePalette Community Support
+    url: https://discord.gg/z5pABwGpPa
+    about: Please ask and answer questions of repositories here.
+  - name: PurplePalette Critical Security Bug Report
+    url: mailto:dsgamer777@gmail.com
+    about: Please report critical security vulnerabilities here.
