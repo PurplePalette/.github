@@ -11,5 +11,5 @@ Supports of every projects are provided in communities at below. We do best but 
 ### 開発関連メンバー / Development members
 * [紫式部(Murasakishikibu)](#)
 * [ドマオー(Omado)](https://github.com/Dosugamea)
-* [名無し。(Nanashi)](https://github.com/sevenc-nanashi)
+* [名無し｡(Nanashi.)](https://github.com/sevenc-nanashi)
 * [ここはち(Kokohachi)](https://github.com/Kokohachi)
