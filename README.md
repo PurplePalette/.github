@@ -22,7 +22,7 @@ See [SUPPORT.md](SUPPORT.md) to find out how to help us help you.
 
 ## Security
 
-See [SECURITY.md](SUPPORT.md) to find out how to help you help us.
+See [SECURITY.md](SECURITY.md) to find out how to help you help us.
 
 ## Issue templates
 
