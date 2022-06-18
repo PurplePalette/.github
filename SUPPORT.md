@@ -9,7 +9,7 @@ Supports of every projects are provided in communities at below. We do best but 
 * [Sonolus(Sonolus本体の開発/ゲームコミュニティ)](https://discord.com/invite/zStqbJahH7)
 
 ### 開発関連メンバー / Development members
-* [紫式部(Murasakishikibu)](#)
+* [紫式部(Murasakishikibu)](https://discordapp.com/users/826082931201802240)
 * [ドマオー(Omado)](https://github.com/Dosugamea)
 * [名無し｡(Nanashi.)](https://github.com/sevenc-nanashi)
 * [ここはち(Kokohachi)](https://github.com/Kokohachi)
