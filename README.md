@@ -35,6 +35,7 @@ See [PULL_REQUEST_TEMPLATE](.github/PULL_REQUEST_TEMPLATE/) for what template we
 ## References
 - [Creating a default community health file / Github](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 - [remarkjs/.github © Titus Wormer](https://github.com/remarkjs/.github)
+- [Twemoji](https://twemoji.twitter.com/)
 - [.githubリポジトリでGitHubのPull Requestやissueのテンプレートをアカウント全体に適用する方法 / @karaage0703](https://qiita.com/karaage0703/items/3f9320e4cc23a25726cf)
 - [Pull Requestのテンプレートを作って効率よくレビューしよう！ / 藤井元貴](https://dev.classmethod.jp/articles/pull-request-template/)
 
