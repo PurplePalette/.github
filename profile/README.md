@@ -1,7 +1,7 @@
 # <img src="./logo.png">
 - 🙋‍♀️ Introduction
   - We are japanese indie rhythm game community
-- 🌈 We contributing to grow sonolus:
+- 🌈 We contributing to grow [Sonolus](https://sonolus.com):
   - [Sonolus-FastApi](https://github.com/PurplePalette/sonolus-fastapi) - Sonolus server api example implemented with FastApi
   - [Sonolus-Uploader2](https://github.com/PurplePalette/sonolus-uploader2) - Sonolus server api frontend example implemented with Nuxt3
   - Analyses game system (secret)
