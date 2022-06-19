@@ -7,7 +7,7 @@
   - Analyses game system (secret)
 
 - 👩‍💻 Useful resources:
-  - [Our guideline is at here](https://github.com/PurplePalette/.github)
+  - [Our guideline](https://github.com/PurplePalette/.github)
 - 🍿 Fun facts:
   - No one speak english in this community (Writing this doc only for studying english 🤨)
 
