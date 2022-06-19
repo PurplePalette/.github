@@ -13,7 +13,7 @@
 
 
 ### Core members:
-- [紫式部(Murasakishikibu)](#)
+- [紫式部(Murasakishikibu)](https://discordapp.com/users/826082931201802240)
 - [ドマオー(Omado)](https://github.com/Dosugamea)
 - [名無し｡(Nanashi.)](https://github.com/sevenc-nanashi)
 - [ここはち(Kokohachi)](https://github.com/Kokohachi)
