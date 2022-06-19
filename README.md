@@ -40,3 +40,6 @@ See [PULL_REQUEST_TEMPLATE](.github/PULL_REQUEST_TEMPLATE/) for what template we
 
 ## License
 [CC-BY-4.0 © Dosugamea](https://creativecommons.org/licenses/by/4.0/)
+
+## Acknowledgements
+Palette icon: [Twemoji](https://twemoji.twitter.com/).
