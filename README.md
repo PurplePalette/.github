@@ -26,11 +26,11 @@ See [SECURITY.md](SECURITY.md) to find out how to help you help us.
 
 ## Issue templates
 
-See [ISSUE_TEMPLATE](ISSUE_TEMPLATE/) for what template we using.
+See [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/) for what template we using.
 
 ## Pull request templates
 
-See [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE/) for what template we using.
+See [PULL_REQUEST_TEMPLATE](.github/PULL_REQUEST_TEMPLATE/) for what template we using.
 
 ## References
 - [Creating a default community health file / Github](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
