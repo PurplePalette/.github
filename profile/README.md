@@ -1,4 +1,4 @@
-# <img src="./logo.svg">
+# <img src="./logo.png">
 - 🙋‍♀️ Introduction
   - We are japanese indie rhythm game community
 - 🌈 We contributing to grow [Sonolus](https://sonolus.com):
