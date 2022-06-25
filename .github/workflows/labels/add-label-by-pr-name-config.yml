@@ -2,8 +2,8 @@
 '[Topic] Bug🐛': ['hotfix/*', 'fix/*', 'bugfix/*']
 '[Topic] Documentation📄': ['docs/*', 'doc/*']
 '[Topic] Design🎨' : ['style/*', 'design/']
-'[Topic] Refactor♻️' : 'refactor/*'
-'[Topic] Performance' : 'perf/*'
+'[Topic] Refactor🔨' : 'refactor/*'
+'[Topic] Performance💨' : 'perf/*'
 '[Topic] CI🔧' : ['ci/*', 'build/*']
 '[Topic] Test☑' : ['test/*', 'tests/*']
 '[Topic] Other❔' : ['chore/*']
