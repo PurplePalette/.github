@@ -10,6 +10,6 @@ jobs:
     steps:
       - uses: TimonVS/pr-labeler-action@v3.1.0
         with:
-          configuration-path: add-label-by-pr-name-config.yml
+          configuration-path: ".github/workflows/labels/add-label-by-pr-name-config.yml"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
