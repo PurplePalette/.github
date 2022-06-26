@@ -1,7 +1,7 @@
 name: "✒ Lint text files with textlint using reviewdog"
 
 on:
-  pull_request:
+  pull_request_target:
     types:
       - opened
       - synchronize
