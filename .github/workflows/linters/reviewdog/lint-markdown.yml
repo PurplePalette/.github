@@ -20,4 +20,4 @@ jobs:
         uses: reviewdog/action-markdownlint@v0
         with:
           github_token: ${{ secrets.KIRARI_TOKEN }}
-          reporter: github-pr-check
+          reporter: github-pr-review
