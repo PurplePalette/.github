@@ -23,5 +23,5 @@ jobs:
         uses: reviewdog/action-hadolint@v1
         with:
           github_token: ${{ secrets.KIRARI_TOKEN }}
-          reporter: github-pr-check
+          reporter: github-pr-review
           level: error
